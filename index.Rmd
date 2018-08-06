@@ -2,8 +2,5 @@
 
 ---
 
-<img src="images/Guejar1.jpg" margin-right: 20px" align="left">
-
-
 # CV
 My full CV is available [here](documents/CV_Efrain-Garcia-Sanchez_USB.pdf).
