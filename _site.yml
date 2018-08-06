@@ -1,0 +1,22 @@
+name: "egarcias"
+output_dir: "."
+navbar:
+  title: "Efrain Garcia Sanchez"
+  right:
+  - text: "Research"
+    href: research.html
+  - text: "Links"
+    href: links.html
+  - text: "Contact"
+    href: contact.html
+  - icon: ai-cv fa-lg
+    href: documents/CV_Efrain-Garcia-Sanchez_USB.pdf   
+  - icon: ai-researchgate fa-lg
+    href: https://www.researchgate.net/profile/Efrain_Garcia-Sanchez/contributions
+  - icon: fa-github fa-lg
+    href: https://github.com/egarcias
+ 
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
